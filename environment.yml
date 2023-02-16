@@ -1,0 +1,11 @@
+name: sci_computing
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - xarray
+  - matplotlib
+  - h5py
+  - xlrd
+  - hvplot
+  - jupyterhub 
