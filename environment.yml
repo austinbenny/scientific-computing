@@ -1,11 +1,19 @@
 name: sci_computing
 dependencies:
-  - python=3.10
+  - python
   - numpy
   - pandas
   - xarray
   - matplotlib
   - h5py
-  - xlrd
   - hvplot
-  - jupyterhub 
+  - jupyterlab
+  - black
+  - pint
+  - sympy
+  - scipy
+  - iapws
+  - pyvista
+
+channels:
+  - conda-forge 
